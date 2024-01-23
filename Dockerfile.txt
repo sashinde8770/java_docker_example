@@ -1,0 +1,11 @@
+FROM openjdk:8-jre-alpine
+
+WORKDIR /app
+
+COPY ..
+
+RUN javac SingleRevesrLL.java && java SingleRevesrLL
+
+
+
+CMD["ava", "Hello"]
