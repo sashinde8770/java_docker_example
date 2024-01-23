@@ -8,4 +8,4 @@ RUN javac SingleRevesrLL.java && java SingleRevesrLL
 
 
 
-CMD["ava", "Hello"]
+CMD["Java", "Hello"]
