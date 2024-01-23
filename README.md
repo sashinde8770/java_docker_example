@@ -1,1 +1,1 @@
-This is Example is of Java program dockerfile.
+This is Example of a Java program dockerfile.
